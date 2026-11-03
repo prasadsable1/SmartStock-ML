@@ -2,7 +2,7 @@
 ## 📸 Project Preview
 
 <div align="center">
-  <img src="smartstock-preview.png"
+  <img src="Screenshot 2026-11-04 002342.png"
        width="100%"
        alt="SmartStock ML Project Preview">
 
